@@ -1,0 +1,96 @@
+body{
+  text-align:center;
+}
+
+h1{
+  font-size: 60px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 10px;
+}
+
+img{
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+}
+.Login{
+  margin-top: 100px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+input{
+  margin: auto;
+  display: list-item;
+  width: 500px;
+  height: 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 5px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+p{
+  margin-top: 10px;
+  color:#0f56bf;
+}
+p:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+.Login button{
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #0f6cbf;
+  color: white;
+  
+}
+.Login button:hover{
+  border-color: blue;
+  cursor: pointer;
+  background-color: #0f56bf;
+}
+.facebook img{
+  height: 20px;
+  width: 30px;
+  margin-left: 10px;
+  float: left;
+}
+.facebook button{
+  width: 400px;
+  height: 50px;
+  font-size: 20px;
+  text-justify: auto;
+  background-color: white;
+  text-align: center;
+}
+.facebook button:hover{
+  cursor: pointer;
+  border-color: blue;
+}
+.gmail button{
+  margin-top: 20px;
+  width: 400px;
+  height: 50px;
+  font-size: 20px;
+  text-justify: auto;
+  background-color: white;
+  text-align: center;
+}
+.gmail img{
+  height: 20px;
+  width: 30px;
+  margin-left: 10px;
+  float: left;
+}
+.gmail button:hover{
+  cursor: pointer;
+  border-color:red;
+}
